@@ -1,4 +1,4 @@
-# 🧬 EthoGrid_Nereis  
+# EthoGrid_Nereis  
 ## High-Throughput Tracking, Pose Estimation, Segmentation, and Behavioral Analysis of *Nereis*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
