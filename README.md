@@ -1,5 +1,5 @@
 # EthoGrid_Nereis  
-## High-Throughput Tracking, Pose Estimation, Segmentation, and Behavioral Analysis of *Nereis*
+## High-Throughput Tracking, Pose Estimation and Behavioral Analysis of *Nereis*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -11,7 +11,7 @@
 ## 📌 Overview
 
 **EthoGrid_Nereis** is a dedicated, research-grade desktop application for **automated behavioral analysis of *Nereis*** using video recordings.  
-The platform supports **object detection, instance segmentation, pose estimation, and multi-arena tracking** within a unified and transparent workflow.
+The platform supports **object detection,pose estimation, and multi-arena tracking** within a unified and transparent workflow.
 
 The system is specifically designed for **high-throughput screening experiments**, enabling large-scale, reproducible behavioral phenotyping of *Nereis* under diverse experimental conditions.
 
