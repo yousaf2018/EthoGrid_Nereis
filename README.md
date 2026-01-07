@@ -31,7 +31,7 @@ The system is specifically designed for **high-throughput screening experiments*
 
 
 <p align="center">
-  <em>EthoGrid_Nereis — an end-to-end AI-powered ethomics platform for marine annelid research</em>
+  <em>EthoGrid_Nereis an end-to-end AI-powered ethomics platform for marine annelid research</em>
 </p>
 
 ---
