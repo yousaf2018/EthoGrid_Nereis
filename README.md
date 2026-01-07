@@ -20,7 +20,7 @@ The system is specifically designed for **high-throughput screening experiments*
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yousaf2018/EthoGrid/main/images/android-chrome-512x512.png" width="200">
+  <img src="https://github.com/yousaf2018/EthoGrid_Nereis/blob/main/images/logo.png" width="200">
 </p>
 
 <p align="center">
