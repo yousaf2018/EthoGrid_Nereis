@@ -20,8 +20,13 @@ The system is specifically designed for **high-throughput screening experiments*
 ---
 
 <p align="center">
-  <img src="https://github.com/yousaf2018/EthoGrid_Nereis/blob/main/images/logo.png" width="200">
+  <img 
+    src="https://github.com/yousaf2018/EthoGrid_Nereis/blob/main/images/logo.png" 
+    width="200"
+    style="border-radius: 50%;"
+  >
 </p>
+
 
 <p align="center">
   <em>EthoGrid_Nereis — an end-to-end AI-powered ethomics platform for marine annelid research</em>
